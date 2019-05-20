@@ -9,9 +9,6 @@ This presentation will discuss the process we implemented to develop and refacto
 
 Speakers
 ## Jared Myhrberg
-## Anna Ridenour
-## Tommy Tran
-## Bonnie McNeil
 
 ![Jared Myhrberg avatar](https://avatars1.githubusercontent.com/u/42257433?s=460&v=4)
 
@@ -20,10 +17,16 @@ He is an avid life long learner with a passion for programming as well as woodwo
 
 * [Github](https://github.com/UncleJerry23)
 
+## Anna Ridenour
+
 ![Anna Ridenour avatar](https://avatars1.githubusercontent.com/u/25269980?s=400&u=637501e03b6bad055709814bc3fdcf6d9a0c01b3&v=4)
 
 Anna is a full stack software developer dedicated to developing practical, intuitive, and accessible software. They are a driven and curious lifelong learner with a background in music electronics. They are passionate about empowerment and inclusion through education, music, and outdoor experiences.  
 
+* [Github](https://github.com/ridenouram)
+
+## Tommy Tran
+## Bonnie McNeil
 
 
 
