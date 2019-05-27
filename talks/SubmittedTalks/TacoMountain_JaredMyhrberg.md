@@ -26,6 +26,11 @@ Anna is a full stack software developer dedicated to developing practical, intui
 * [Github](https://github.com/ridenouram)
 
 ## Tommy Tran
+
+![Tommy Tran avatar](https://avatars1.githubusercontent.com/u/37195183?s=400&u=b0402d5c9d3cde72ebe560a69a52e9d96043f122&v=4)
+
+Tommy is a software developer with a background in biochemistry and biophysics. He is passionate about learning new concepts and technologies to devise creative and efficient solutions that drive progress.
+
 ## Bonnie McNeil
 
 
